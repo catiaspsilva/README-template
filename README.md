@@ -192,5 +192,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/catiaspsilva
+[linkedin-url]: https://www.linkedin.com/in/catia-silva-a9215430
 [product-screenshot]: images/screenshot.png
