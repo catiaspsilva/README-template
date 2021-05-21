@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/catiaspsilva/README-template">
-    <img src="images/UF-ECE.jpg" alt="Logo" width="80" height="80">
+    <img src="images/UF-ECE.jpg" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">README Template</h3>
