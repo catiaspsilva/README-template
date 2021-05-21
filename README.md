@@ -170,7 +170,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgements
 
 You can acknowledge any individual, group, institution or service.
-* [ECE @ UF](ece.ufl.edu)
+* [ECE @ UF](www.ece.ufl.edu)
 * [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
