@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Authors & Contact
+## Authors
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
