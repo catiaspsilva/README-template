@@ -6,6 +6,23 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/catiaspsilva/README-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/catiaspsilva/README-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/catiaspsilva/README-template.svg?style=for-the-badge
+[forks-url]: https://github.com/catiaspsilva/README-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/catiaspsilva/README-template.svg?style=for-the-badge
+[stars-url]: https://github.com/catiaspsilva/README-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/catiaspsilva/README-template.svg?style=for-the-badge
+[issues-url]: https://github.com/catiaspsilva/README-template/issues
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-url]: https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/catia-silva-a9215430
+[product-screenshot]: images/screenshot.png
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -13,7 +30,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+[![Bitbucket open issues](https://img.shields.io/bitbucket/issues/catiaspsilva/README-template)](https://github.com/catiaspsilva/README-template/issues)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -179,20 +196,3 @@ You can acknowledge any individual, group, institution or service.
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/catiaspsilva/README-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/catiaspsilva/README-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/catiaspsilva/README-template.svg?style=for-the-badge
-[forks-url]: https://github.com/catiaspsilva/README-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/catiaspsilva/README-template.svg?style=for-the-badge
-[stars-url]: https://github.com/catiaspsilva/README-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/catiaspsilva/README-template.svg?style=for-the-badge
-[issues-url]: https://github.com/catiaspsilva/README-template/issues
-[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/catia-silva-a9215430
-[product-screenshot]: images/screenshot.png
