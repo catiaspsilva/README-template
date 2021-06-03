@@ -27,7 +27,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-[![MIT License]([![MIT License][license-shield]][license-url])](https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt)
 [![Bitbucket open issues](https://img.shields.io/bitbucket/issues/catiaspsilva/README-template)](https://github.com/catiaspsilva/README-template/issues)
 
 <!-- PROJECT LOGO -->
