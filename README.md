@@ -22,10 +22,10 @@
 [product-screenshot]: images/screenshot.png
 
 [![MIT License][license-shield]](license-url)
-[![Issues][issues-shield]][issues-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]](issues-url)
+[![Stargazers][stars-shield]](stars-url)
+[![Forks][forks-shield]](forks-url)
+[![Contributors][contributors-shield]](contributors-url)
   
 <!-- PROJECT LOGO -->
 <br />
