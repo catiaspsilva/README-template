@@ -31,7 +31,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/catiaspsilva/README-template">
-    <img src="images/UF-ECE.jpg" alt="Logo" width="150" height="150">
+    <img src="images/gators.jpg" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">README Template</h3>
