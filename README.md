@@ -21,14 +21,12 @@
 [license-url]: https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
-<p align="center">
-  [![MIT License][license-shield]][license-url]
-  [![Issues][issues-shield]][issues-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Contributors][contributors-shield]][contributors-url]
-  </p>
-
+[![MIT License][license-shield]](license-url)
+[![Issues][issues-shield]][issues-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Contributors][contributors-shield]][contributors-url]
+  
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
