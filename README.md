@@ -21,13 +21,11 @@
 [license-url]: https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-[![Bitbucket open issues](https://img.shields.io/bitbucket/issues/catiaspsilva/README-template)](https://github.com/catiaspsilva/README-template/issues)
+[![Issues][issues-shield]][issues-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Contributors][contributors-shield]][contributors-url]
 
 <!-- PROJECT LOGO -->
 <br />
