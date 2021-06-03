@@ -30,8 +30,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![MIT License][https://img.shields.io/badge/License-MIT-yellow.svg]][https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt]
-[![Bitbucket open issues](https://img.shields.io/bitbucket/issues/catiaspsilva/README-template)][https://github.com/catiaspsilva/README-template/issues]
+[![MIT License][license-shield]][license-url]
+[![Bitbucket open issues](https://img.shields.io/bitbucket/issues/catiaspsilva/README-template)](https://github.com/catiaspsilva/README-template/issues)
 
 <!-- PROJECT LOGO -->
 <br />
