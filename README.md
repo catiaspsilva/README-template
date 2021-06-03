@@ -21,7 +21,6 @@
 [license-url]: https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
-<br />
 <p align="center">
   [![MIT License][license-shield]][license-url]
   [![Issues][issues-shield]][issues-url]
