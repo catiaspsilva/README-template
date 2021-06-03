@@ -9,13 +9,13 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/catiaspsilva/README-template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/catiaspsilva/README-template.svg
 [contributors-url]: https://github.com/catiaspsilva/README-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/catiaspsilva/README-template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/catiaspsilva/README-template.svg
 [forks-url]: https://github.com/catiaspsilva/README-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/catiaspsilva/README-template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/catiaspsilva/README-template.svg
 [stars-url]: https://github.com/catiaspsilva/README-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/catiaspsilva/README-template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/catiaspsilva/README-template.svg
 [issues-url]: https://github.com/catiaspsilva/README-template/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt
