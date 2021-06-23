@@ -1,32 +1,3 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/catiaspsilva/README-template.svg
-[contributors-url]: https://github.com/catiaspsilva/README-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/catiaspsilva/README-template.svg
-[forks-url]: https://github.com/catiaspsilva/README-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/catiaspsilva/README-template.svg
-[stars-url]: https://github.com/catiaspsilva/README-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/catiaspsilva/README-template.svg
-[issues-url]: https://github.com/catiaspsilva/README-template/issues
-[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/catiaspsilva/README-template/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
-
-[![MIT License][license-shield]](license-url)
-[![Issues][issues-shield]](issues-url)
-[![Stargazers][stars-shield]](stars-url)
-[![Forks][forks-shield]](forks-url)
-[![Contributors][contributors-shield]](contributors-url)
-  
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -83,41 +54,29 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+[Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
+You can include tables or images to summarize your results when and if appropriate.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In this section you should provide instructions on how to use this repository to recreate your project locally.
 
 ### Dependencies
 
-This is an example of how to list things you need to use the software and how to install them.
-* OpenCV 4.5.2
+Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
+
+For example, this is how you would list them:
+* Transformers 2.11.0
   ```sh
-  conda install -c conda-forge opencv=4.5.2
+  pip install transformers==2.11.0
   ```
+An alternative is to clone your environment and ```push``` it to your project's repository. This way, anyone can install it and they will have all dependencies needed. Here is how you create a copy of your Python environment:
+
+#### Copy your Environment
 
 ### Installation
 
