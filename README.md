@@ -10,7 +10,7 @@
   <p align="center">
     A README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/catiaspsilva/README-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/catiaspsilva/README-template/blob/main/images/docs.txt"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#usage">View Demo</a>
