@@ -143,7 +143,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgements
 
 You can acknowledge any individual, group, institution or service.
-* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
+* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/){:target="_blank"}
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
