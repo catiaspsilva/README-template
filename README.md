@@ -70,9 +70,13 @@ In this section you should provide instructions on how to use this repository to
 Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
 
 For example, this is how you would list them:
-* Transformers 2.11.0
+* Transformers 4.8.0
   ```sh
-  pip install transformers==2.11.0
+  conda install -c conda-forge transformers
+  ```
+* OpenCV 4.5.2
+  ```sh
+  conda install -c conda-forge opencv
   ```
 ### Alternative: Export your Environment
 
