@@ -13,7 +13,7 @@
     <a href="https://github.com/catiaspsilva/README-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/catiaspsilva/README-template">View Demo</a>
+    <a href="#usage">View Demo</a>
     ·
     <a href="https://github.com/catiaspsilva/README-template/issues">Report Bug</a>
     ·
@@ -143,7 +143,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgements
 
 You can acknowledge any individual, group, institution or service.
-* <a href="https://faculty.eng.ufl.edu/catia-silva/" target="_blank">Catia Silva</a>
 * [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
