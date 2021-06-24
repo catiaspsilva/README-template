@@ -89,7 +89,7 @@ Alternatively, you can export your Python working environment, push it to your p
 The user will be able to recreate it using:
 
   ```sh
-  conda env export -f requirements.yml
+  conda env create -f requirements.yml
   ```
 
 ### Installation
@@ -100,7 +100,7 @@ The user will be able to recreate it using:
    ```
 2. Setup (and activate) your environment
   ```sh
-  conda env export -f requirements.yml
+  conda env create -f requirements.yml
   ```
 
 <!-- USAGE EXAMPLES -->
