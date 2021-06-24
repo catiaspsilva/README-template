@@ -74,42 +74,44 @@ For example, this is how you would list them:
   ```sh
   pip install transformers==2.11.0
   ```
-An alternative is to clone your environment and ```push``` it to your project's repository. This way, anyone can install it and they will have all dependencies needed. Here is how you create a copy of your Python environment:
+### Alternative: Export your Environment
 
-#### Copy your Environment
+Alternatively, you can export your Python working environment, push it to your project's repository and allow users to clone it locally. This way, anyone can install it and they will have all dependencies needed. Here is how you export a copy of your Python environment:
+
+  ```sh
+  conda env export > requirements.yml
+  ```
+
+The user will be able to recreate it using:
+
+  ```sh
+  conda env export -f requirements.yml
+  ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/catiaspsilva/README-template.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
+2. Setup (and activate) your environment
+  ```sh
+  conda env export -f requirements.yml
+  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this space to show useful examples of how a project can be used. For course projects, include which file to execute and the format of any input variables.
+
+Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/catiaspsilva/README-template/issues) for a list of proposed features (and known issues).
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -141,7 +143,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgements
 
 You can acknowledge any individual, group, institution or service.
-* [ECE @ UF](https://www.ece.ufl.edu)
 * [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
