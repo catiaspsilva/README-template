@@ -157,4 +157,4 @@ You can acknowledge any individual, group, institution or service.
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 
 
-[![Buy me a coffee](https://www.buymeacoffee.com/catiaspsilva)](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/catiaspsilva)
